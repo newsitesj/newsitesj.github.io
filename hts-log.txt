@@ -1,0 +1,84 @@
+HTTrack3.49-1+htsswf+htsjava launched on Thu, 13 Apr 2017 15:13:13 at http://www.livelongerrunning.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.livelongerrunning.com/ -O1 "C:\Users\jaya\Desktop\livelongerrunning\livelongerrunning" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:13:40	Warning: 	Link www.livelongerrunning.com/best-selling-treadmills-compared/ not scanned (follow robots meta tag)
+15:13:47	Warning: 	Moved Permanently for www.livelongerrunning.com/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:13:47	Warning: 	File has moved from www.livelongerrunning.com/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=550
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/?p=550 to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=554
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/?p=554 to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=546
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/?p=546 to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=534
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/?p=534 to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/lifespan-tr-1200i-folding-treadmill-review/[php]echo bloginfo('url');[/php]/B0030EW7Q8/
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/lifespan-tr-1200i-folding-treadmill-review/[php]echo bloginfo('url');[/php]/B0030EW7Q8/ to http://www.livelongerrunning.com
+15:14:43	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=634
+15:14:43	Warning: 	File has moved from www.livelongerrunning.com/?p=634 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=638
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=638 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=650
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=650 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/sole-fitness-f85-folding-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/sole-fitness-f85-folding-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=644
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=644 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/proform-power-995-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/proform-power-995-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=648
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=648 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/sole-fitness-f80-folding-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/sole-fitness-f80-folding-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=536
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=536 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/horizon-fitness-t101-3-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/horizon-fitness-t101-3-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=632
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=632 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/proform-505-cst-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/proform-505-cst-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=646
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=646 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/sole-fitness-f63-folding-treadmill/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/sole-fitness-f63-folding-treadmill/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=629
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=629 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/weslo-cadence-r-5-2-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/weslo-cadence-r-5-2-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=538
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=538 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/horizon-evolve-sg-compact-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/horizon-evolve-sg-compact-treadmill-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=540
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=540 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/proform-6-0-rt-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/proform-6-0-rt-review/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=636
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=636 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/merit-fitness-715t-plus-treadmill/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/merit-fitness-715t-plus-treadmill/[php]echo bloginfo('url');[/php]/best-selling-treadmills-compared/ to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=560
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=560 to http://www.livelongerrunning.com/how-to-effectively-incorporate-a-treadmill-into-your-workout-routine/
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=558
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=558 to http://www.livelongerrunning.com/tips-for-building-upper-body-strength/
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=556
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=556 to http://www.livelongerrunning.com/easing-cardio-back-woes/
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=548
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=548 to http://www.livelongerrunning.com/the-best-music-to-keep-you-going/
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=544
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=544 to http://www.livelongerrunning.com/tips-to-keep-you-from-getting-bored/
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=568
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=568 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=570
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=570 to http://www.livelongerrunning.com
+15:14:44	Warning: 	Moved Permanently for www.livelongerrunning.com/?p=572
+15:14:44	Warning: 	File has moved from www.livelongerrunning.com/?p=572 to http://www.livelongerrunning.com
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 minutes 31 seconds : 136 links scanned, 99 files written (1261358 bytes overall) [475714 bytes received at 5227 bytes/sec], 1223194 bytes transferred using HTTP compression in 142 files, ratio 29%, 25.6 requests per connection
+(No errors, 73 warnings, 0 messages)
